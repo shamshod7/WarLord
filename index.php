@@ -6,10 +6,10 @@ $userbot = "user-name";
 
 $server = '1';
 
-$status = "offline";
+$status = "online";
 //online
 
-define("API_KEY","Token");
+define("API_KEY","888290852:AAHNqJhkE2_v3aX14kE7Ge4ArUvqrPit0Xo");
 
 
 
